@@ -1,0 +1,8 @@
+
+.cardContainer {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+
+}
